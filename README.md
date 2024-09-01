@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kok26th
+- 👋 Hi, I’m @kok26th (SKW)
 - 👀 I’m interested in AI image analysis in Python
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on ...
