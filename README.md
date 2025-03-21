@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kok26th (SKW)
-- 👀 I’m interested in AI image analysis in Python
+- 👀 I’m interested in AI image analysis, RAG application
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
